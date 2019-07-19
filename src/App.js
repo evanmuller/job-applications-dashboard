@@ -1,5 +1,12 @@
-import React from "react";
+import React, { Fragment } from "react";
+import CssBaseline from "@material-ui/core/CssBaseline";
+import Dashboard from "./Dashboard";
 
-const App = () => <h1>Job Applications Dashboard</h1>;
+const App = () => (
+  <Fragment>
+    <CssBaseline />
+    <Dashboard />
+  </Fragment>
+);
 
 export default App;
