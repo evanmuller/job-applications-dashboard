@@ -11,12 +11,14 @@ To build this application you must have [node.js](https://node.js) and [yarn](ht
 
 Run `yarn` from the root of the project to pull down dependencies.
 
-#### Build and run
+#### Build, run, and test
 Build, start a dev web server, and launch a browser by running `yarn start` from the root of the project.
 
 Or build an optimized bundle with `yarn build`.  You can serve up that bundle with a node pushstate server, install it with `yarn add -g pushstate-server` start it with `pushstate-server build` then open a browser `open http://localhost:9000`.
 
+Run the test suite with `yarn test`.
+
 #### Notes
-This application is front-end only, there is no back-end.  When the app starts it seeds all of its data from `applicants.json`.
+This application is front-end only, there is no back-end.  When the app starts it seeds all of its data from `initialJobApplications.json`.
 
 The app config was generated using [create-react-app](https://github.com/facebookincubator/create-react-app)
