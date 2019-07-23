@@ -14,7 +14,7 @@ Run `yarn` from the root of the project to pull down dependencies.
 #### Build, run, and test
 Build, start a dev web server, and launch a browser by running `yarn start` from the root of the project.
 
-Or build an optimized bundle with `yarn build`.  You can serve up that bundle with a node pushstate server, install it with `yarn add -g pushstate-server` start it with `pushstate-server build` then open a browser `open http://localhost:9000`.
+Or build an optimized bundle with `yarn build`.  You can serve up that bundle with serve, install it with `yarn add -g serve` start it with `serve -s build` then open a browser `open http://localhost:5000`.
 
 Run the test suite with `yarn test`.
 

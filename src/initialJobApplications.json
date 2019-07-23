@@ -62,14 +62,6 @@
       {
         "text": "Are you authorized to work in the United States?",
         "answer": "Yes"
-      },
-      {
-        "text": "Have you ever been convicted of a felony?",
-        "answer": "Yes"
-      },
-      {
-        "text": "Have you ever been convicted of a felony?",
-        "answer": "Yes"
       }
     ]
   },
@@ -91,6 +83,288 @@
     "questions": [
       {
         "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Evan Muller",
+    "position": "Server",
+    "applied": "03/15/16",
+    "experience": 3,
+    "availability": {
+      "M": 0,
+      "T": 2,
+      "W": 2,
+      "Th": 2,
+      "F": 2,
+      "S": 0,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "No"
+      },
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bob Woodward",
+    "position": "Host",
+    "applied": "01/01/16",
+    "experience": 2,
+    "availability": {
+      "M": 0,
+      "T": 2,
+      "W": 2,
+      "Th": 2,
+      "F": 2,
+      "S": 0,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "No"
+      },
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Alexander Johnson",
+    "position": "Cashier",
+    "applied": "09/22/16",
+    "experience": 3,
+    "availability": {
+      "M": 0,
+      "T": 1,
+      "W": 1,
+      "Th": 1,
+      "F": 1,
+      "S": 1,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "Yes"
+      },
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "George Kleiner",
+    "position": "Chef",
+    "applied": "12/22/16",
+    "experience": 1,
+    "availability": {
+      "M": 0,
+      "T": 1,
+      "W": 1,
+      "Th": 1,
+      "F": 1,
+      "S": 1,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Arnold Smith",
+    "position": "Server",
+    "applied": "02/01/16",
+    "experience": 1,
+    "availability": {
+      "M": 2,
+      "T": 2,
+      "W": 2,
+      "Th": 2,
+      "F": 2,
+      "S": 0,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Are you allergic to shellfish?",
+        "answer": "No"
+      },
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      },
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Barb Bush",
+    "position": "Chef",
+    "applied": "03/01/16",
+    "experience": 4,
+    "availability": {
+      "M": 0,
+      "T": 0,
+      "W": 0,
+      "Th": 2,
+      "F": 2,
+      "S": 0,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "No"
+      },
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Larry Monroe",
+    "position": "Host",
+    "applied": "02/22/16",
+    "experience": 1,
+    "availability": {
+      "M": 1,
+      "T": 1,
+      "W": 1,
+      "Th": 1,
+      "F": 1,
+      "S": 0,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      },
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Michael Smith",
+    "position": "Cook",
+    "applied": "01/01/16",
+    "experience": 1,
+    "availability": {
+      "M": 1,
+      "T": 1,
+      "W": 2,
+      "Th": 2,
+      "F": 2,
+      "S": 0,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      },
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Oliver Stone",
+    "position": "Server",
+    "applied": "05/12/16",
+    "experience": 3,
+    "availability": {
+      "M": 1,
+      "T": 1,
+      "W": 2,
+      "Th": 2,
+      "F": 2,
+      "S": 0,
+      "Su": 0
+    },
+    "questions": [
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Peter Thiel",
+    "position": "Host",
+    "applied": "08/20/16",
+    "experience": 2,
+    "availability": {
+      "M": 0,
+      "T": 0,
+      "W": 2,
+      "Th": 2,
+      "F": 2,
+      "S": 2,
+      "Su": 2
+    },
+    "questions": [
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "Yes"
+      },
+      {
+        "text": "Have you ever been convicted of a felony?",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Victor Jones",
+    "position": "Server",
+    "applied": "09/12/16",
+    "experience": 1,
+    "availability": {
+      "M": 0,
+      "T": 0,
+      "W": 0,
+      "Th": 0,
+      "F": 0,
+      "S": 2,
+      "Su": 2
+    },
+    "questions": [
+      {
+        "text": "Are you authorized to work in the United States?",
+        "answer": "No"
+      },
+      {
+        "text": "Have you ever been convicted of a felony?",
         "answer": "Yes"
       }
     ]
